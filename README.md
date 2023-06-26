@@ -20,12 +20,3 @@ I sell value, not time.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔥 Streak Stats
-
-<div align="center" style="display: flex">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jose-cipriano&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-cipriano&theme=blueberry&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
