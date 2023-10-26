@@ -15,7 +15,7 @@ I sell value, not time.
 
 <p>
   <a href="https://github.com/c-spider/c-spider" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=c-spider&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ronnie-samaroo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
   <a href="https://github.com/c-spider/c-spider" >
