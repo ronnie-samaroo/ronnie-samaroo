@@ -5,7 +5,7 @@
 ## 💪 Overview
 
 <p>
-  <a href="https://github.com/ronnie-samaroo/ronnie-samaroo" >
+  <a href="https://github.com/ronnie-samaroo/ronnie-davi" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ronnie-samaroo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronnie-samaroo&column=8&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DenverCoder1&column=8&theme=onedark"/>
 
 ## 📖 Languages
 
