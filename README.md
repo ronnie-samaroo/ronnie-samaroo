@@ -26,7 +26,7 @@ I sell value, not time.
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Django-F7DF1E?style=for-the-badge&logo=django&logoColor=black">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/Pixi.js-C21325?style=for-the-badge&logo=pixidotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Pixi.js-C21325?style=for-the-badge&logo=pixijs&logoColor=white">
   <img src="https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-316192?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Langchain-CC0000?style=for-the-badge&logo=lagnchain&logoColor=white">
