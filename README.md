@@ -1,16 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&weight=900&size=32&duration=3200&pause=800&background=4E1DFF00&center=true&vCenter=true&random=false&width=640&height=60&lines=Ronnie+Samaroo;Senior+Full+Stack+Engineer;Langchain+%26+Chatbot+Expert;Crypto+Enthusiast+%26+Web3+Engineer" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
- 💎 💎 💎 </br>
-<b>
-I sell value, not time.
-</b>
-<br>
-
-</p>
-
 ## 💪 Overview
 
 <p>
@@ -21,6 +8,10 @@ I sell value, not time.
   <a href="https://github.com/c-spider/c-spider" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnie-samaroo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ronnie's GitHub Stats" height="180px"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&weight=900&size=32&duration=3200&pause=800&background=4E1DFF00&center=true&vCenter=true&random=false&width=640&height=60&lines=Ronnie+Samaroo;Senior+Full+Stack+Engineer;Langchain+%26+Chatbot+Expert;Crypto+Enthusiast+%26+Web3+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ## 🏆 GitHub Trophies
