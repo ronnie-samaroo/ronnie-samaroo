@@ -9,14 +9,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ronnie-samaroo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
-  <a href="https://github.com//ronnie-samaroo" >
+  <a href="https://github.com/ronnie-samaroo/" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnie-samaroo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ronnie's GitHub Stats" height="180px"/>
   </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=DenverCoder1&column=8&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ronnie-samaroo&column=8&theme=onedark"/>
 
 ## 📖 Languages
 
